@@ -1,0 +1,10 @@
+[info] :: delivering :: com.andy#hex_2.12;1.2.0 :: 1.2.0 :: release :: Sun Sep 20 09:57:46 WAT 2020
+[debug] 	options = status=release pubdate=Sun Sep 20 09:57:46 WAT 2020 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null
+[info] 	delivering ivy file to C:\Users\lenovo\Downloads\Hex\target\scala-2.12\ivy-1.2.0.xml
+[debug] 	deliver done (85ms)
+[debug] local do not support transaction. ivy pattern does not use revision as a directory
+[info] 	published hex_2.12 to C:\Users\lenovo\.ivy2\local\com.andy\hex_2.12\1.2.0\poms\hex_2.12.pom
+[info] 	published hex_2.12 to C:\Users\lenovo\.ivy2\local\com.andy\hex_2.12\1.2.0\jars\hex_2.12.jar
+[info] 	published hex_2.12 to C:\Users\lenovo\.ivy2\local\com.andy\hex_2.12\1.2.0\srcs\hex_2.12-sources.jar
+[info] 	published hex_2.12 to C:\Users\lenovo\.ivy2\local\com.andy\hex_2.12\1.2.0\docs\hex_2.12-javadoc.jar
+[info] 	published ivy to C:\Users\lenovo\.ivy2\local\com.andy\hex_2.12\1.2.0\ivys\ivy.xml

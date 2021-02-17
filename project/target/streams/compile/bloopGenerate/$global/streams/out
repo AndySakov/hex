@@ -1,0 +1,4 @@
+[debug] [hex-build] Classpath dependencies List()
+[debug] [hex-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'hex-build' to 'C:\Users\lenovo\Documents\code\scala\projectz\hex\project\.bloop\hex-build.json'
+[success] Generated .bloop\hex-build.json

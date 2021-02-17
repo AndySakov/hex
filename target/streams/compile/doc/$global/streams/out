@@ -1,0 +1,26 @@
+[info] Main Scala API documentation to C:\Users\lenovo\Downloads\Hex\target\scala-2.12\api...
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8
+[debug] Calling Scaladoc with arguments:
+[debug] 	-d
+[debug] 	C:\Users\lenovo\Downloads\Hex\target\scala-2.12\api
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files\Java\jdk1.8.0_152\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_152\jre\classes;C:\Users\lenovo\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar
+[debug] 	-classpath
+[debug] 	C:\Users\lenovo\.ivy2\cache\mysql\mysql-connector-java\jars\mysql-connector-java-8.0.15.jar;C:\Users\lenovo\.ivy2\cache\com.google.protobuf\protobuf-java\bundles\protobuf-java-3.6.1.jar;C:\Users\lenovo\.ivy2\cache\org.postgresql\postgresql\bundles\postgresql-42.2.12.jar
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\Randomizer.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\collection\Collection.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\db\DB.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\encrypt\dicts\bsr\BSR.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\encrypt\dicts\bsr\Extractor.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\encrypt\dicts\bsr\Reticulator.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\encrypt\dicts\bsr\Spliner.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\encrypt\dicts\bsr\XByte.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\encrypt\dicts\lang\Morse.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\encrypt\dicts\scramble\CharScramble.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\encrypt\dicts\scramble\NoSuchCodeException.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\encrypt\globals\Sys.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\file\SuperFile.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\sys\SystemData.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\time\CountType.scala
+[debug] 	C:\Users\lenovo\Downloads\Hex\src\main\scala\com\hex\time\Timer.scala
+[info] Main Scala API documentation successful.

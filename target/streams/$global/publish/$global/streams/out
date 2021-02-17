@@ -1,0 +1,2 @@
+[debug] CLIENT ERROR: Not Found url=https://oss.sonatype.org/content/repositories/snapshots/com/andy/hex_2.12/1.2.0/hex_2.12-1.2.0.pom
+[error] Unable to find credentials for [Sonatype Nexus Repository Manager @ oss.sonatype.org].
